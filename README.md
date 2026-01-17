@@ -1,4 +1,4 @@
-PDFImageExtractor 
+PDFImgExtractor 
 A lightweight, native desktop application designed to extract images from PDF files quickly, securely, and effortlessly.
 
 LOGO
@@ -15,7 +15,7 @@ Key Features:
 
 Perfect for designers, researchers, archivists, or anyone who needs to extract images from PDFs without compromising privacy or system resources.
 
-Download PDFImageExtractor – keep it simple, keep it local.
+Download PDFImgExtractor – keep it simple, keep it local.
 
 Screenshots
 - src/lib/assets/screen_001.png 简洁的 UI 设计

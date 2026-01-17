@@ -10,18 +10,18 @@
 </script>
 
 <svelte:head>
-	<title>PDFImageExtractor - Extract Images from PDFs Locally</title>
+	<title>PDFImgExtractor - Extract Images from PDFs Locally</title>
 	<meta
 		name="description"
-		content="PDFImageExtractor - A lightweight, native desktop application to extract images from PDF files locally and privately."
+		content="PDFImgExtractor - A lightweight, native desktop application to extract images from PDF files locally and privately."
 	/>
 </svelte:head>
 
 <header class="header">
 	<nav class="container nav">
 		<div class="logo">
-			<img src={logo} alt="PDFImageExtractor Logo" />
-			<span>PDFImageExtractor</span>
+			<img src={logo} alt="PDFImgExtractor Logo" />
+			<span>PDFImgExtractor</span>
 		</div>
 		<a href="#features" class="nav-link">Features</a>
 	</nav>
@@ -48,7 +48,7 @@
 
 	<section id="features" class="features">
 		<div class="container">
-			<h2 class="section-title">Why PDFImageExtractor?</h2>
+			<h2 class="section-title">Why PDFImgExtractor?</h2>
 			<div class="features-grid">
 				<div class="feature-card">
 					<div class="feature-icon">
@@ -185,7 +185,7 @@
 
 	<section class="cta-section">
 		<div class="container">
-			<h2>Download PDFImageExtractor</h2>
+			<h2>Download PDFImgExtractor</h2>
 			<p class="cta-subtitle">Keep it simple. Keep it local.</p>
 			<p class="coming-soon">Coming Soon...</p>
 		</div>

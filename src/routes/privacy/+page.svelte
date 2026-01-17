@@ -4,18 +4,18 @@
 </script>
 
 <svelte:head>
-	<title>Privacy Policy - PDFImageExtractor</title>
+	<title>Privacy Policy - PDFImgExtractor</title>
 	<meta
 		name="description"
-		content="Privacy Policy for PDFImageExtractor - Your data stays on your device, we collect nothing."
+		content="Privacy Policy for PDFImgExtractor - Your data stays on your device, we collect nothing."
 	/>
 </svelte:head>
 
 <header class="header">
 	<nav class="container nav">
 		<a href="{base}/" class="logo">
-			<img src={logo} alt="PDFImageExtractor Logo" />
-			<span>PDFImageExtractor</span>
+			<img src={logo} alt="PDFImgExtractor Logo" />
+			<span>PDFImgExtractor</span>
 		</a>
 		<a href="{base}/" class="nav-link">Back to Home</a>
 	</nav>
@@ -29,7 +29,7 @@
 		<section class="policy-section">
 			<h2>No Data Collection</h2>
 			<p>
-				PDFImageExtractor is a fully local desktop application. We do not collect, store, or transmit
+				PDFImgExtractor is a fully local desktop application. We do not collect, store, or transmit
 				any of your data. All file processing happens entirely on your computer. Your PDF files,
 				extracted images, and usage data never leave your device.
 			</p>
@@ -53,7 +53,7 @@
 		<section class="policy-section">
 			<h2>Legal Compliance</h2>
 			<p>
-				PDFImageExtractor operates in full compliance with applicable data protection regulations,
+				PDFImgExtractor operates in full compliance with applicable data protection regulations,
 				including but not limited to:
 			</p>
 			<ul>
@@ -87,7 +87,7 @@
 		<section class="policy-section summary">
 			<h2>Our Privacy Promise</h2>
 			<p>
-				<strong>PDFImageExtractor is built on the principle that your data belongs to you.</strong> We
+				<strong>PDFImgExtractor is built on the principle that your data belongs to you.</strong> We
 				believe privacy shouldn't be a feature—it should be the foundation. By keeping all processing
 				local, we ensure that your documents remain private, secure, and entirely under your control.
 			</p>
